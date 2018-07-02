@@ -1,0 +1,30 @@
+lui $s1, 1
+addi $s1, $s2, 1
+addiu $s1, $s2, 1
+slti $s1, $s2, 1
+sltiu $s1, $s2, 1
+andi $s1, $s2, 1
+ori $s1, $s2, 1
+xori $s1, $s2, 1
+sll $s1, $s2, 1
+srl $s1, $s2, 1
+sra $s1, $s2, 1
+sllv $s1, $s2, $s3
+srlv $s1, $s2, $s3
+srav $s1, $s2, $s3
+mfhi $s1
+mflo $s1
+mult $s1, $s2
+multu $s1, $s2
+div $s1, $s2
+divu $s1, $s2
+add $s1, $s2, $s3
+addu $s1, $s2, $s3
+sub $s1, $s2, $s3
+subu $s1, $s2, $s3
+and $s1, $s2, $s3
+or $s1, $s2, $s3
+xor $s1, $s2, $s3
+nor $s1, $s2, $s3
+slt $s1, $s2, $s3
+sltu $s1, $s2, $s3

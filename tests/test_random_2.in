@@ -1,0 +1,61 @@
+xori $23, $27, 9978
+slt $0, $9, $27
+sltu $28, $5, $23
+div $s3, $24
+srl $s2, $s6, 6
+sllv $13, $s1, $a2
+div $a0, $s6
+srav $4, $4, $k0
+srlv $8, $27, $3
+srl $t3, $18, 6
+slt $4, $v0, $s4
+sub $t2, $29, $a3
+addu $fp, $t1, $26
+srl $a3, $a2, 23
+sltiu $zero, $6, 23402
+slt $29, $26, $t4
+sub $at, $23, $s1
+mfhi $16
+mfhi $27
+lui $k0, 2685
+multu $a1, $19
+divu $23, $5
+subu $at, $v1, $a2
+multu $v1, $8
+xor $s1, $20, $24
+div $19, $14
+sltiu $8, $sp, 11069
+addiu $19, $6, 781
+addu $24, $s0, $t8
+mult $t9, $at
+sllv $ra, $a2, $sp
+mult $18, $10
+xor $28, $31, $20
+andi $gp, $21, 17933
+subu $17, $29, $8
+srl $k1, $24, 19
+nor $13, $9, $26
+addi $13, $10, 26594
+andi $v0, $a1, 22991
+srav $t8, $fp, $a3
+ori $6, $21, 471
+or $gp, $4, $28
+srav $t5, $28, $s3
+mfhi $t6
+sllv $1, $6, $t4
+xori $8, $ra, 4071
+addiu $6, $v0, 29475
+xori $21, $a0, 16662
+ori $s5, $31, 23071
+sll $27, $gp, 7
+sub $12, $16, $11
+slt $s2, $29, $t2
+and $22, $8, $24
+divu $26, $9
+andi $t5, $s2, 21236
+sllv $16, $k1, $s4
+or $20, $s5, $t5
+or $sp, $14, $16
+addu $6, $fp, $27
+srlv $15, $30, $t9
+xor $28, $4, $21

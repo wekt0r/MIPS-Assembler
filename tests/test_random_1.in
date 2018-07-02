@@ -1,0 +1,153 @@
+srl $5, $22, 14
+div $v0, $k1
+xori $29, $t4, 22814
+sllv $sp, $3, $18
+div $t0, $25
+andi $31, $t1, 11238
+or $19, $ra, $t8
+sll $s4, $7, 30
+srl $5, $30, 20
+sltu $a1, $fp, $19
+addu $fp, $29, $23
+srlv $4, $17, $31
+sltu $27, $s5, $t3
+ori $4, $t1, 18418
+srlv $t1, $7, $at
+slti $s0, $s5, 304
+mflo $s2
+addu $a3, $26, $ra
+multu $30, $16
+xori $s0, $s4, 12704
+mfhi $s0
+xori $21, $24, 13074
+addi $at, $s6, 12287
+xor $0, $t0, $t6
+slt $s5, $30, $k1
+divu $s1, $12
+mfhi $0
+sllv $fp, $t1, $10
+sub $2, $8, $s0
+sra $t3, $11, 3
+andi $s6, $21, 29094
+sltu $25, $17, $a2
+lui $0, 22121
+sltu $7, $8, $22
+slt $t8, $k0, $ra
+sllv $s6, $4, $23
+addu $s3, $ra, $29
+mflo $zero
+srl $7, $2, 11
+slti $28, $t6, 8653
+srlv $v0, $t7, $17
+xor $gp, $v1, $22
+slt $27, $8, $k1
+sll $t1, $at, 19
+sllv $8, $a1, $k1
+mult $t1, $sp
+subu $v0, $7, $s1
+andi $25, $9, 11451
+slt $t0, $ra, $10
+sll $15, $s3, 7
+srl $s6, $t5, 23
+addi $24, $23, 4134
+xori $13, $28, 11821
+mfhi $s6
+or $zero, $7, $s0
+srav $6, $sp, $14
+slti $at, $19, 16529
+multu $s6, $s4
+sra $v0, $v1, 29
+slt $a0, $4, $17
+addu $12, $28, $t7
+andi $11, $5, 22888
+or $t8, $5, $s4
+add $at, $t6, $25
+srl $10, $29, 2
+sllv $zero, $17, $t4
+sub $7, $s3, $20
+or $v1, $t4, $18
+sltiu $26, $k0, 12478
+and $zero, $s5, $s6
+slt $13, $t9, $t8
+srlv $15, $a3, $t9
+sltiu $26, $sp, 11989
+srl $gp, $a0, 13
+mfhi $t0
+or $31, $k1, $t0
+mflo $15
+xor $7, $ra, $13
+mult $5, $13
+subu $s4, $a1, $t9
+srlv $5, $s3, $24
+sra $8, $25, 24
+mfhi $1
+srl $a3, $t1, 15
+ori $12, $12, 29269
+or $20, $3, $15
+mult $22, $t5
+srlv $2, $t4, $s5
+srav $zero, $10, $fp
+srav $s6, $19, $20
+sll $t2, $t0, 30
+srav $2, $a3, $9
+slt $t8, $30, $17
+xori $t6, $s6, 22953
+sltiu $t6, $k0, 26601
+mfhi $26
+mfhi $a1
+and $0, $k0, $19
+mfhi $9
+nor $t9, $10, $zero
+divu $t1, $6
+andi $5, $15, 3840
+div $zero, $12
+srav $22, $a3, $s3
+sllv $27, $v1, $10
+multu $s6, $t2
+addi $13, $12, 6554
+srav $t9, $t7, $0
+add $17, $24, $t7
+sltu $26, $ra, $9
+srav $19, $20, $a3
+srl $3, $s0, 28
+sltiu $11, $s0, 25170
+slt $4, $a1, $zero
+mflo $26
+ori $12, $1, 17938
+divu $29, $22
+srlv $ra, $gp, $t6
+srl $at, $s0, 24
+subu $s0, $24, $t0
+addiu $28, $17, 11186
+mfhi $4
+and $t7, $t3, $t8
+srlv $s2, $3, $6
+mflo $a3
+div $14, $zero
+sub $t3, $15, $9
+and $v0, $t9, $18
+sltu $t4, $t6, $30
+add $17, $31, $t0
+sltiu $k0, $30, 19152
+srav $t7, $t2, $12
+slti $0, $a1, 14790
+sllv $8, $v1, $29
+srav $t3, $a1, $t9
+lui $ra, 19727
+sltu $t5, $t9, $9
+multu $t2, $31
+ori $15, $0, 14550
+and $s7, $16, $31
+mflo $s6
+lui $10, 2163
+multu $22, $a2
+lui $0, 19027
+slti $t4, $s5, 29885
+addu $s1, $10, $19
+srl $t4, $t0, 22
+andi $a1, $s2, 8163
+sll $20, $18, 3
+sll $11, $a2, 20
+mflo $a3
+sltu $18, $t9, $27
+or $20, $2, $t6

@@ -1,0 +1,7 @@
+add $s0, $s1, $s2 # here is comment after code so it should be in the output
+#this one should not be in output
+addi $t0, $s3, -12
+
+addi $t0, $s3, -12
+
+

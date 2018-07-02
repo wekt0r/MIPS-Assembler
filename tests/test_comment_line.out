@@ -1,0 +1,4 @@
+.text
+00000000	02328020	add	$s0,$s1,$s2 # here is comment after code so it should be in the output
+00000004	2268FFF4	addi	$t0,$s3,-12
+00000008	2268FFF4	addi	$t0,$s3,-12

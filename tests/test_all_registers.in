@@ -1,0 +1,7 @@
+sub $zero, $ra, $zero
+add $at, $v0, $v1
+slt $v0, $v1, $a0
+sltu $a3, $t0, $t7
+or $s0, $s7, $t8
+xor $t9, $k0, $k1
+and $gp, $sp, $fp
